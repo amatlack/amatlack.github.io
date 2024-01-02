@@ -2,6 +2,7 @@
 layout: post
 title: Combining individual powers to make team collaboration easy
 description: What can the cartoon Captain Planet teach us about collaboration in an open organization? Here's a story about how different teams came together to create a company-wide directory of internal communities of practice, highlighting the importance of each person contributing their unique strengths and passions to achieve a common goal.
+image: /images/opensource-lightbulbs.jpg
 categories: [Open organization, Culture]
 ---
 
