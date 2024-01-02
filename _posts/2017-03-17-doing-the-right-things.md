@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Changing your entrenched processes can increase customer loyalty
-excerpt: How does your team balance doing things for the sake of process and consistency, doing things fast, and doing the right thing for the customer?
+description: How does your team balance doing things for the sake of process and consistency, doing things fast, and doing the right thing for the customer?
 categories: [DevOps, Culture]
 ---
 
