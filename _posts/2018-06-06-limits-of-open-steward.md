@@ -2,6 +2,7 @@
 layout: post
 title: Learning to be open without turning into a mesmerized chicken
 description: Three years after immersion in open principles, a starry-eyed dreamer contemplates the limits of being a steward for organizational culture.
+image: /images/opensource-stars.jpg
 categories: [Open organization, Culture]
 ---
 
