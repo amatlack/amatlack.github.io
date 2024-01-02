@@ -11,7 +11,7 @@ layout: default
         <div>
           <p class="post_date">{{ post.date | date: "%Y-%m-%d" }}</p>
         </div>
-        <div>
+        <div class="post_image">
           <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}" />
         </div>
       </a>
