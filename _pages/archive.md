@@ -7,9 +7,9 @@ title: Posts archive
 
 <div id="archives">
   <section id="archive">
-      <h2 style="text-align:left;">{{ post.date | date: '%Y' }}</h2>
       {%for post in site.posts %}
       {% unless post.next %}
+      <h2 style="text-align:left;">{{ post.date | date: '%Y' }}</h2>
       <ul class="this">
           {% else %}
           {% capture month %}{{ post.date | date: '%B %Y' }}{% endcapture %}
