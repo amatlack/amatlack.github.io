@@ -2,6 +2,7 @@
 layout: post
 title: Building teams we want to be on (regardless of where they're located)
 description: Build a healthy team that thinks and acts openly, regardless of their physical location, by establishing trust through transparency, co-creating a team charter, and finding ways to keep each other in the loop.
+image: /images/human_distance_cover.png
 categories: [Open leadership, Culture]
 ---
 
