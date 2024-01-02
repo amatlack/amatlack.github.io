@@ -15,8 +15,8 @@ layout: default
           <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}" />
         </div>
       </a>
-      <div class="post_desc">
-        {{ post.description }}
+      <div class="entry">
+        <p>{{ post.description }}</p>
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more</a>
