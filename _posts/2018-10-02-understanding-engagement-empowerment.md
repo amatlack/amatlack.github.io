@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beyond engagement - What leaders need to know about empowering others
-excerpt: Empowering employees doesn't mean you won't need to manage them. But it does mean leaders need to think differently about their roles.
+description: Empowering employees doesn't mean you won't need to manage them. But it does mean leaders need to think differently about their roles.
 categories: [Open leadership, Culture]
 ---
 
