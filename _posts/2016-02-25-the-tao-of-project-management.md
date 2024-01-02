@@ -16,13 +16,19 @@ This concept—that employees in open organizations are motivated by passion, pu
 And to explain, I'll return to the _Tao Te Ching_.
 
 > Don't let your job title define you
+> 
 > The tao that can be told
+> 
 > is not the eternal Tao
+> 
 > The name that can be named
+> 
 > is not the eternal Name.
 > 
 > The unnameable is the eternally real.
+> 
 > Naming is the origin
+> 
 > of all particular things. [1](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html#1)
 
 What exactly is _project management_? And what does a project manager _do_?
@@ -38,7 +44,9 @@ The opening passage of the _Tao Te Ching_ (which I cited above) suggests that wo
 ## Connect the right people
 
 > We join spokes together in a wheel,
+> 
 > but it is the center hole
+> 
 > that makes the wagon move. [11](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html#11)
 
 One of the most difficult lessons I had to learn as I transitioned into project management was that not having all the answers was perfectly acceptable, even expected. That was new for me. I _like_ having all the answers. But as a project manager, my role is more about _connecting_ people—so the ones who _do_ have the answers can collaborate efficiently.
@@ -50,17 +58,25 @@ Picture a wagon wheel. Without the stability and direction provided by the cente
 ## Trust your team
 
 > When the Master governs, the people
+> 
 > are hardly aware that he exists.
+> 
 > Next best is a leader who is loved.
+> 
 > Next, one who is feared.
-> The worst is one who is despised.
+> 
+> The worst is one who is despised. 
 > 
 > If you don't trust the people,
-> you make them untrustworthy.
+> 
+> you make them untrustworthy. 
 > 
 > The Master doesn't talk, he acts.
+>  
 > When his work is done,
+> 
 > the people say, "Amazing:
+>
 > we did it, all by ourselves!" [17](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html#17)
 
 [Rebecca Fernandez](https://opensource.com/users/rebecca) once told me that what differentiates leaders in open organizations is not the trust people have _in them_, but the trust they have _in other people_.
@@ -72,8 +88,11 @@ Here, I think the above passage from the _Tao Te Ching_ speaks for itself.
 ## Be effortless
 
 > The Master does nothing
+> 
 > yet he leaves nothing undone.
+>  
 > The ordinary man is always doing things,
+> 
 > yet many more are left to be done. [38](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html#38)
 
 Do you know the type of person who is always extremely busy? The one who seems frazzled and stressed with too many things to do?
@@ -91,12 +110,19 @@ What this passage of the _Tao Te Ching_ says to me is that the person who's alwa
 ## Be a culture coach
 
 > When a superior man hears of the Tao,
+> 
 > he immediately begins to embody it.
+> 
 > When an average man hears of the Tao,
+> 
 > he half believes it, half doubts it.
+> 
 > When a foolish man hears of the Tao,
+> 
 > he laughs out loud.
+> 
 > If he didn't laugh,
+> 
 > it wouldn't be the Tao. [41](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html#41)
 
 Last fall, I enrolled an MBA business ethics class with a bunch of federal employees. When I started describing my company's culture, values, and ethics framework, I got the direct impression that both my classmates and my professor thought I was a naive young lady with [a lot of lovely daydreams](https://opensource.com/open-organization/15/9/reflections-open-organization-starry-eyed-dreamer) about how companies should run. They told me things couldn't possibly be as they seemed. They said I should investigate further.
@@ -112,11 +138,17 @@ As a project manager, you might think that your job has nothing to do with culti
 ## Kaizen
 
 > In pursuit of knowledge,
+> 
 > every day something is added.
+>
 > In the practice of the Tao,
+> 
 > every day something is dropped.
+> 
 > Less and less do you need to force things,
+> 
 > until finally you arrive at non-action. When nothing is done,
+> 
 > nothing is left undone. [48](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html#48)
 
 The general field of project management is too focused on the latest and greatest tools. But the answer to the question of which tool you should use is always the same: "the simplest."
@@ -130,10 +162,15 @@ The best processes arise organically. As a project manager, you can help your te
 ## Practice
 
 > Some say that my teaching is nonsense.
+> 
 > Others call it lofty but impractical.
+> 
 > But to those who have looked inside themselves,
+> 
 > this nonsense makes perfect sense.
+> 
 > And to those who put it into practice,
+> 
 > this loftiness has roots that go deep. [67](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html#67)
 
 I believe in what open organizations are doing. What open organizations are doing for the field of management is almost as important as the actual products and services they offer. We have an opportunity to lead by example, to inspire passion and purpose in others, to create working environments that inspire and empower.
