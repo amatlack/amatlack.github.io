@@ -1,11 +1,11 @@
 ---
 layout: post
 title: The Tao of project management
-excerpt: Project managers in open organizations should focus on inspiring passion, purpose, and engagement in their teams, rather than just managing projects. Drawing inspiration from the Tao Te Ching, I look at the importance of courage, connecting the right people, trusting the team, being effortless, being a culture coach, and practicing continuous improvement.
+excerpt: Project managers in open organizations should focus on inspiring passion, purpose, and engagement in their teams, rather than "just" managing projects. Drawing inspiration from the Tao Te Ching, this post explores the importance of courage, connecting the right people, trusting the team, being effortless, being a culture coach, and practicing continuous improvement.
 categories: [Open organization, Open leadership, Project management]
 ---
 
-The [Tao Te Ching](https://en.wikisource.org/wiki/Translation:Tao_Te_Ching), [believed to have been written](https://en.wikipedia.org/wiki/Tao_Te_Ching) by the sage [Lao Tzu](http://plato.stanford.edu/entries/laozi/) in the 6th century BCE, is among the most widely translated texts in existence. It has inspired everything from [religions](https://en.wikipedia.org/wiki/Taoism) to [funny movies about dating](http://www.imdb.com/title/tt0234853/), and authors have used it as a metaphor to explain all kinds of things (even [programming](http://www.mit.edu/%7Exela/tao.html)).
+The _[Tao Te Ching](https://en.wikisource.org/wiki/Translation:Tao_Te_Ching)_, [believed to have been written](https://en.wikipedia.org/wiki/Tao_Te_Ching) by the sage [Lao Tzu](http://plato.stanford.edu/entries/laozi/) in the 6th century BCE, is among the most widely translated texts in existence. It has inspired everything from [religions](https://en.wikipedia.org/wiki/Taoism) to [funny movies about dating](http://www.imdb.com/title/tt0234853/), and authors have used it as a metaphor to explain all kinds of things (even [programming](http://www.mit.edu/%7Exela/tao.html)).
 
 This text is what immediately comes to my mind when thinking about project management in open organizations.
 
@@ -177,4 +177,4 @@ I believe in what open organizations are doing. What open organizations are doin
 
 I encourage you to find ways to incorporate some of these ideas into your own projects and teams to see what happens. Learn about your organization's mission and how your projects contribute to it. Have courage, expect to try some things that won't work, and don't forget to share the lessons you learn with our community so we can continue to improve.
 
-_Content originally published [on opensource.com](https://opensource.com/open-organization/16/2/tao-project-management) under CC BY-SA 4.0; links to the Tao Te Ching source have been updated as [the originally cited source](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html) now 404s_
+_This article is part of [The Open Organization Leaders Manual](https://github.com/open-organization/open-org-leaders-manual) and was originally published [on opensource.com](https://opensource.com/open-organization/16/2/tao-project-management) under CC BY-SA 4.0; links to the Tao Te Ching source have been updated as [the source cited in the article](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html) at time of publication now 404s_
