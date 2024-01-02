@@ -7,6 +7,7 @@ layout: default
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
+        <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
 
         <div>
           <p class="post_date">{{ post.date | date: "%Y-%m-%d" }}</p>
