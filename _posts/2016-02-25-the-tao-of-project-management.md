@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Tao of project management
-excerpt: Project managers in open organizations should focus on inspiring passion, purpose, and engagement in their teams, rather than "just" managing projects. Drawing inspiration from the Tao Te Ching, this post explores the importance of courage, connecting the right people, trusting the team, being effortless, being a culture coach, and practicing continuous improvement.
+description: Project managers in open organizations should focus on inspiring passion, purpose, and engagement in their teams, rather than "just" managing projects. Drawing inspiration from the Tao Te Ching, this post explores the importance of courage, connecting the right people, trusting the team, being effortless, being a culture coach, and practicing continuous improvement.
 categories: [Open organization, Open leadership, Project management]
 ---
 
