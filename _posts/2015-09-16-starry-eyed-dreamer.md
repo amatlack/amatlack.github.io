@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A starry-eyed dreamer reflects on The Open Organization
+excerpt: The Open Organization by Jim Whitehurst is an insightful look at what makes Red Hat a special place to work. The book serves as a primer for how to keep the company's values and mission close as it continues to grow, emphasizing the importance of trust, transparency, and meritocracy in the company's management style and culture.
 categories: [Open organization, Culture]
 ---
 
