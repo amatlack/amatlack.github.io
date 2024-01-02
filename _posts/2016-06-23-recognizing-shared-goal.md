@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Set aside ego for the sake of a shared goal
-excerpt: Open organization principles emphasize the importance of driving organizational change through collaboration and inclusive decision-making, but it's not as easy as saying, "I'm going to be more collaborative." Collaboration is a spirit, an attitude, something that should be a part of every practice in an open organization. It just doesn't work unless everyone is willing to set aside ego for the sake of a shared goal, and working towards that shared goal is everything.
+description: Open organization principles emphasize the importance of driving organizational change through collaboration and inclusive decision-making, but it's not as easy as saying, "I'm going to be more collaborative." Collaboration is a spirit, an attitude, something that should be a part of every practice in an open organization. It just doesn't work unless everyone is willing to set aside ego for the sake of a shared goal, and working towards that shared goal is everything.
 categories: [Open organization, Culture]
 ---
 
