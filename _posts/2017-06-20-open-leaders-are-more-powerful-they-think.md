@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leaders are more powerful than they think
-excerpt: Humility is fine—but managers shouldn't sell themselves short.
+description: Humility is fine—but managers shouldn't sell themselves short.
 categories: [Open organization, Open leadership, Culture]
 ---
 
