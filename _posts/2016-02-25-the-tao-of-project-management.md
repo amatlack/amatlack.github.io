@@ -5,7 +5,7 @@ excerpt: Project managers in open organizations should focus on inspiring passio
 categories: [Open organization, Open leadership, Project management]
 ---
 
-The [Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html), [believed to have been written](https://en.wikipedia.org/wiki/Tao_Te_Ching) by the sage [Lao Tzu](http://plato.stanford.edu/entries/laozi/) in the 6th century BCE, is among the most widely translated texts in existence. It has inspired everything from [religions](https://en.wikipedia.org/wiki/Taoism) to [funny movies about dating](http://www.imdb.com/title/tt0234853/), and authors have used it as a metaphor to explain all kinds of things (even [programming](http://www.mit.edu/%7Exela/tao.html)).
+The [Tao Te Ching](https://en.wikisource.org/wiki/Translation:Tao_Te_Ching), [believed to have been written](https://en.wikipedia.org/wiki/Tao_Te_Ching) by the sage [Lao Tzu](http://plato.stanford.edu/entries/laozi/) in the 6th century BCE, is among the most widely translated texts in existence. It has inspired everything from [religions](https://en.wikipedia.org/wiki/Taoism) to [funny movies about dating](http://www.imdb.com/title/tt0234853/), and authors have used it as a metaphor to explain all kinds of things (even [programming](http://www.mit.edu/%7Exela/tao.html)).
 
 This text is what immediately comes to my mind when thinking about project management in open organizations.
 
@@ -29,7 +29,7 @@ And to explain, I'll return to the _Tao Te Ching_.
 > 
 > Naming is the origin
 > 
-> of all particular things. [1](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html#1)
+> of all particular things. [1](https://en.wikisource.org/wiki/Translation:Tao_Te_Ching#Chapter_1_(%E7%AC%AC%E4%B8%80%E7%AB%A0))
 
 What exactly is _project management_? And what does a project manager _do_?
 
@@ -47,7 +47,7 @@ The opening passage of the _Tao Te Ching_ (which I cited above) suggests that wo
 > 
 > but it is the center hole
 > 
-> that makes the wagon move. [11](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html#11)
+> that makes the wagon move. [11](https://en.wikisource.org/wiki/Translation:Tao_Te_Ching#Chapter_11_(%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0))
 
 One of the most difficult lessons I had to learn as I transitioned into project management was that not having all the answers was perfectly acceptable, even expected. That was new for me. I _like_ having all the answers. But as a project manager, my role is more about _connecting_ people—so the ones who _do_ have the answers can collaborate efficiently.
 
@@ -77,7 +77,7 @@ Picture a wagon wheel. Without the stability and direction provided by the cente
 > 
 > the people say, "Amazing:
 >
-> we did it, all by ourselves!" [17](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html#17)
+> we did it, all by ourselves!" [17](https://en.wikisource.org/wiki/Translation:Tao_Te_Ching#Chapter_17_(%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0))
 
 [Rebecca Fernandez](https://opensource.com/users/rebecca) once told me that what differentiates leaders in open organizations is not the trust people have _in them_, but the trust they have _in other people_.
 
@@ -93,7 +93,7 @@ Here, I think the above passage from the _Tao Te Ching_ speaks for itself.
 >  
 > The ordinary man is always doing things,
 > 
-> yet many more are left to be done. [38](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html#38)
+> yet many more are left to be done. [38](https://en.wikisource.org/wiki/Translation:Tao_Te_Ching#Chapter_38_(%E7%AC%AC%E4%B8%89%E5%8D%81%E5%85%AB%E7%AB%A0))
 
 Do you know the type of person who is always extremely busy? The one who seems frazzled and stressed with too many things to do?
 
@@ -123,9 +123,9 @@ What this passage of the _Tao Te Ching_ says to me is that the person who's alwa
 > 
 > If he didn't laugh,
 > 
-> it wouldn't be the Tao. [41](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html#41)
+> it wouldn't be the Tao. [41](https://en.wikisource.org/wiki/Translation:Tao_Te_Ching#Chapter_41_(%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B8%80%E7%AB%A0))
 
-Last fall, I enrolled an MBA business ethics class with a bunch of federal employees. When I started describing my company's culture, values, and ethics framework, I got the direct impression that both my classmates and my professor thought I was a naive young lady with [a lot of lovely daydreams](https://opensource.com/open-organization/15/9/reflections-open-organization-starry-eyed-dreamer) about how companies should run. They told me things couldn't possibly be as they seemed. They said I should investigate further.
+Last fall, I enrolled an MBA business ethics class with a bunch of federal employees. When I started describing my company's culture, values, and ethics framework, I got the direct impression that both my classmates and my professor thought I was a naive young lady with [a lot of lovely daydreams](/starry-eyed-dreamer/) about how companies should run. They told me things couldn't possibly be as they seemed. They said I should investigate further.
 
 So I did.
 
@@ -149,7 +149,7 @@ As a project manager, you might think that your job has nothing to do with culti
 > 
 > until finally you arrive at non-action. When nothing is done,
 > 
-> nothing is left undone. [48](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html#48)
+> nothing is left undone. [48](https://en.wikisource.org/wiki/Translation:Tao_Te_Ching#Chapter_48_(%E7%AC%AC%E5%9B%9B%E5%8D%81%E5%85%AB%E7%AB%A0))
 
 The general field of project management is too focused on the latest and greatest tools. But the answer to the question of which tool you should use is always the same: "the simplest."
 
@@ -171,10 +171,10 @@ The best processes arise organically. As a project manager, you can help your te
 > 
 > And to those who put it into practice,
 > 
-> this loftiness has roots that go deep. [67](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html#67)
+> this loftiness has roots that go deep. [67](https://en.wikisource.org/wiki/Translation:Tao_Te_Ching#Chapter_67_(%E7%AC%AC%E5%85%AD%E5%8D%81%E4%B8%83%E7%AB%A0))
 
 I believe in what open organizations are doing. What open organizations are doing for the field of management is almost as important as the actual products and services they offer. We have an opportunity to lead by example, to inspire passion and purpose in others, to create working environments that inspire and empower.
 
 I encourage you to find ways to incorporate some of these ideas into your own projects and teams to see what happens. Learn about your organization's mission and how your projects contribute to it. Have courage, expect to try some things that won't work, and don't forget to share the lessons you learn with our community so we can continue to improve.
 
-_Content originally published [on opensource.com](https://opensource.com/open-organization/16/2/tao-project-management) under CC BY-SA 4.0_
+_Content originally published [on opensource.com](https://opensource.com/open-organization/16/2/tao-project-management) under CC BY-SA 4.0; links to the Tao Te Ching source have been updated as [the originally cited source](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html) now 404s_
