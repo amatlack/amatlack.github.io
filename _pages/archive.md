@@ -12,8 +12,8 @@ title: Posts Archive
       {% unless post.next %}
       <ul class="this">
           {% else %}
-          {% capture month %}{{ post.date | date: '%B %Y' }}{% endcapture %}
-          {% capture nmonth %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
+          {% capture month %}{{ post.date | date: '%m %Y' }}{% endcapture %}
+          {% capture nmonth %}{{ post.next.date | date: '%m %Y' }}{% endcapture %}
           {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
           {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
           {% if year != nyear %}
@@ -22,10 +22,10 @@ title: Posts Archive
       <ul class="past">
           {% endif %}
           {% if month != nmonth %}
-          <h3 style="text-align:left;">{{ post.date | date: '%B %Y' }}</h3>
+          <h3 style="text-align:left;">{{ post.date | date: '%m %Y' }}</h3>
           {% endif %}
           {% endunless %}
-          <p><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b> - {% if post.date and post.date != "" %}{{ post.date | date: "%e %B %Y" }}{%endif%}</p>
+          <p><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b> - {% if post.date and post.date != "" %}{{ post.date | date: "%Y-%m-%d" }}{%endif%}</p>
           {% endfor %}
       </ul>
     <h3>Oldest Posts</h3>
