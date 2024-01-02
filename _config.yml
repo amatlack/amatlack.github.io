@@ -6,7 +6,7 @@ title: Allison Matlack
 author: Allison Matlack
 
 # Short bio or description (displayed in the header)
-description: Personal website of Allison Matlack
+description: Open leadership, communications, culture, and change management
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/24779465?v=4
@@ -45,8 +45,8 @@ google_analytics: # UA-43339302-11
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://amatlack.github.io
-enforce_ssl: https://amatlack.github.io
+url: http://amatlack.com
+enforce_ssl: https://amatlack.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
