@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    {% seo title=false %}
+    {% include meta.html %}
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% assign time = 0 %}
+    {% assign targetname = page.target %}
+ 
+    {% if page.time %}
+    {% assign time = page.time %}
+    {% endif %}
+    
+    {% if page.targetname %}
+    {% assign targetname = page.targetname %}
+    {% endif %}
+
+    {% capture title %}Redirecting to {{ targetname }}{% endcapture %}
+    {% if page.targettitle %}
+    {% assign title = page.targettitle %}
+    {% endif %}
+    <meta http-equiv="refresh" content="{{ time }};url={{ page.target }}"/>
+    <link rel="canonical" href="{{ page.target }}"/>
+    
+    <meta name="theme-color" content="#000000">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
+    {% include analytics_head.html %}
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <p class="site-description">{{ site.description }}</p> 
+            </div>
+
+            <nav>
+              <a href="{{ site.baseurl }}/">Posts</a>
+              <!--<a href="{{ site.baseurl }}/search">Search</a>-->
+              <a href="{{ site.baseurl }}/about">About</a>
+              <a href="{{ site.baseurl }}/archive">Archive</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          
+          {% if page.message %}
+          <p>{{ page.message }}</p>
+          {% else %}
+          <p>This document is hosted on another site.</p>
+          {% endif %}
+
+          <p>Redirecting to <a href="{{ page.target }}">{{ targetname }}</a> in {{ time }} seconds.</p>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            {% include svg-icons.html %}
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>
