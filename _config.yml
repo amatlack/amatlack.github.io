@@ -2,7 +2,8 @@
 title: Allison Matlack
 
 # Name of the author
-author: Allison Matlack
+author: 
+  name: Allison Matlack
 
 # Short bio or description (displayed in the header)
 description: Personal website of Allison Matlack
