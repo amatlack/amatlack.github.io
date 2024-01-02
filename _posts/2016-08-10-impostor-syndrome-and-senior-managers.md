@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I'm not an impostor and know exactly what I'm doing
-excerpt: Overcoming impostor syndrome requires us to make promises and take action, even when we don't have all the answers.
+description: Overcoming impostor syndrome requires us to make promises and take action, even when we don't have all the answers.
 categories: [Open leadership, Culture]
 ---
 
