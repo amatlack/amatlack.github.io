@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Tao of project management
-excerpt: A look at how the principles of the Tao Te Ching can be applied to project management in open organizations, primarily by having project managers focus on connecting the right people, trusting their team, being effortless, being a culture coach, and practicing Kaizen.
+excerpt: Project managers in open organizations should focus on inspiring passion, purpose, and engagement in their teams, rather than just managing projects. Drawing inspiration from the Tao Te Ching, I look at the importance of courage, connecting the right people, trusting the team, being effortless, being a culture coach, and practicing continuous improvement.
 categories: [Open organization, Open leadership, Project management]
 ---
 
