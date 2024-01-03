@@ -12,7 +12,7 @@ title: Categories
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     
-    <h3 class="category-head">{{ category_name }}</h3>
+  <h3 class="category-head">{{ category_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
@@ -21,5 +21,7 @@ title: Categories
     {% endfor %}
   </div>
 {% endfor %}
-    <p><em>If you prefer, you can also view <a href="{{ site.baseurl }}/posts">posts organized chronologically</a>.</em></p>
+    <div class="license_footer">
+    <p>If you prefer, you can also view <a href="{{ site.baseurl }}/posts">posts organized chronologically</a>.</p>
+    </div>
 </div>
