@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Combining individual powers to make team collaboration easy
-description: What can the cartoon Captain Planet teach us about collaboration in an open organization? Here's a story about how different teams came together to create a company-wide directory of internal communities of practice, highlighting the importance of each person contributing their unique strengths and passions to achieve a common goal.
+description: What does the cartoon Captain Planet have to do with collaboration in an open organization? Here's an example of what happens when different teams come together, harnessing their unique strengths and passions to achieve a common goal.
 image: /images/opensource-lightbulbs.jpg
 categories: [Open organization, Culture]
 ---
@@ -68,4 +68,6 @@ Just like in the cartoon when they summon Captain Planet—"with our powers comb
 
 Ours didn't have blue skin and green hair, but there's always next time.
 
-_Content originally published [on opensource.com](https://opensource.com/open-organization/16/8/captain-collaboration) under CC BY-SA 4.0_
+<div class="license_footer">
+  <p>This content was originally published <a href="https://opensource.com/open-organization/16/8/captain-collaboration">on opensource.com</a> under CC BY-SA 4.0.</p>
+</div>
