@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /archive/
-title: Posts archive by year
+permalink: /catalog/
+title: Catalog of posts by year
 ---
 
 
