@@ -21,7 +21,7 @@ title: Categories
     {% endfor %}
   </div>
 {% endfor %}
-    <div class="license_footer">
+    <div class="archive_footer">
     <p>If you prefer, you can also view <a href="{{ site.baseurl }}/posts">posts organized chronologically</a>.</p>
     </div>
 </div>
