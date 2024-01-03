@@ -69,5 +69,5 @@ Just like in the cartoon when they summon Captain Planet—"with our powers comb
 Ours didn't have blue skin and green hair, but there's always next time.
 
 <div class="license_footer">
-  <p>This content was originally published <a href="https://opensource.com/open-organization/16/8/captain-collaboration">on opensource.com</a> under CC BY-SA 4.0.</p>
+  <p>This content (including images) was originally published <a href="https://opensource.com/open-organization/16/8/captain-collaboration">on opensource.com</a> under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>
 </div>
