@@ -10,13 +10,13 @@ layout: default
     {% if page.last_modified_at %}
     <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%Y-%m-%d" }})</p>
     {% endif %}
-   
-    <div class="post_image">
-      <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.title }}" title="{{ page.title }}" />
-    </div>
 
     <div class="post_teaser">
-      {{ page.description }}
+      <p>tl;dr - {{ page.description }}</p>
+    </div>
+    
+    <div class="post_image">
+      <img src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.title }}" title="{{ page.title }}" />
     </div>
     
     <div class="post-tags">
