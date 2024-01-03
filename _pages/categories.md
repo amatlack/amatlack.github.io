@@ -16,8 +16,10 @@ title: Categories
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
+      <ul class="past">
       <p><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b>
       </p>
+      </ul>
     </article>
     {% endfor %}
   </div>
