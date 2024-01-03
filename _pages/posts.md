@@ -28,7 +28,7 @@ title: Posts by year
           <p><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b><!-- - {% if post.date and post.date != "" %}{{ post.date | date: "%Y-%m-%d" }}{%endif%}--></p>
           {% endfor %}
       </ul>
-    <div class="license_footer">
+    <div class="archive_footer">
     <p>If you prefer, you can also view <a href="{{ site.baseurl }}/categories">posts organized by category</a>.</p>
     </div>
   </section>
