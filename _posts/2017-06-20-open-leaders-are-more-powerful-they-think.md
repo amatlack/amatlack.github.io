@@ -40,4 +40,6 @@ So let me offer Exhibit C: Jim agreed to speak at one of our departmental all-ha
 
 Like Jim, open leaders are influential not just because they're at the top of the reporting structure, but because we believe in the mission, values, and purpose they embody. If they recognize the role everyone plays in the success of the organization—especially their own—they can wield their influence to motivate their teams and set the proper context for success.
 
-_Content originally published [on opensource.com](https://opensource.com/open-organization/17/6/open-leaders-are-more-powerful-they-think) under CC BY-SA 4.0_
+<div class="license_footer">
+  <p>This content (including images) was originally published <a href="https://opensource.com/open-organization/17/6/open-leaders-are-more-powerful-they-think">on opensource.com</a> under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>
+</div>
