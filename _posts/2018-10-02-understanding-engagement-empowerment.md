@@ -53,7 +53,7 @@ Figure 2 shows the additive nature of activity states as an organization moves f
 ![States from managed to empowered](/images/matlack_empowerment_figure2.jpg)
 
 <div class="image_caption">
-  <p>Figure 2: Organizational activity states from <em>managed</em> to <em>empowered</em> (courtesy of the author, CC BY-SA)</p>
+  <p>Figure 2: Organizational activity states from managed to empowered (courtesy of the author, CC BY-SA)</p>
 </div>
 
 All teams are _managed_—whether they've stretched to empowerment or not. What changes as an organization becomes empowered is what that management _looks like_.
