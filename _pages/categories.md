@@ -21,4 +21,5 @@ title: Categories
     {% endfor %}
   </div>
 {% endfor %}
+    <p><em>If you prefer, you can also view <a href="{{ site.baseurl }}/posts">posts organized chronologically</a>.</em></p>
 </div>
