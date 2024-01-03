@@ -90,10 +90,8 @@ My team currently has three objectives. As an example, here is one:
 
 And that objective's accompanying strategies:
 
-> * Empower division associates with the information and resources they need to understand how their roles fit into the overall strategy,
-> 
-> * Create opportunities for division associates and executives to interact, and
-> 
+> * Empower division associates with the information and resources they need to understand how their roles fit into the overall strategy,  
+> * Create opportunities for division associates and executives to interact, and  
 > * Provide a platform for division leaders to share their perspectives and demonstrate expertise.
 
 ### How will you know if you're successful? (success measures)
