@@ -62,4 +62,6 @@ Where we'd like to be is _empowered_: Everyone has what they need in order to do
 
 When we talk about empowering employees, we're _not_ talking about giving everyone carte blanche to do whatever they want to do. Nor are we talking about flattening the organization and removing people managers. What we _are_ talking about is making sure that everyone is in the right role for them (depending on their passions and talents and the needs of the organization); that they understand their leader's strategy and vision; and that they have access to relevant information, training, tools, and connections with different people and teams to _perform the best version of that role_. By setting a clear sense of purpose and clearly defining roles and expectations, leaders can then trust the experts on their teams to bring their visions to life.
 
-_Content originally published [on opensource.com](https://opensource.com/open-organization/18/10/understanding-engagement-empowerment) under CC BY-SA 4.0_
+<div class="license_footer">
+  <p>This content (including images) was originally published <a href="https://opensource.com/open-organization/18/10/understanding-engagement-empowerment">on opensource.com</a> under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>
+</div>
