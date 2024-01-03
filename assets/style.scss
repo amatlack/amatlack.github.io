@@ -482,13 +482,14 @@ body:after {
 
 .about_headshot{
   float: right;
-  max-width: 200px;
+  max-width: 250px;
   margin: 5px;
 
   @include mobile {
     float: none;
     display: block;
     margin: 0 auto;
+    max-width: 200px;
   }
 }
 
