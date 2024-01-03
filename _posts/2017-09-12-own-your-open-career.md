@@ -54,4 +54,6 @@ To be successful, associates and managers alike "need to be willing to talk open
 
 However, I would also encourage managers to embrace the part they play in helping each associate own her own career. Instead of waiting to be surprised by an associate who says she feels underutilized, managers should be proactive during ongoing development conversations and intentional about setting the proper context and providing opportunities to practice new skills. That way, each associate will be prepared to define her next step when the time is right.
 
-_Content originally published [on opensource.com](https://opensource.com/open-organization/17/9/own-your-open-career) under CC BY-SA 4.0_
+<div class="license_footer">
+  <p>This content (including images) was originally published <a href="https://opensource.com/open-organization/17/9/own-your-open-career">on opensource.com</a> under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>
+</div>
