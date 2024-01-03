@@ -52,4 +52,6 @@ As Jim said, _The Open Organization_ describes how most of us work on our best d
 
 As for me, I'll admit the stars are gone from my eyes. But I think I prefer what's left: a clear view of our potential as colleagues and communities to define and promote a collaborative way of working that helps us more efficiently solve the complex problems on the horizon.
 
-_Content originally published [on opensource.com](https://opensource.com/open-organization/18/6/limits-of-open-steward) under CC BY-SA 4.0_
+<div class="license_footer">
+  <p>This content (including images) was originally published <a href="https://opensource.com/open-organization/18/6/limits-of-open-steward">on opensource.com</a> under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>
+</div>
