@@ -1,6 +1,6 @@
 # `amatlack.com`
 
-The personal website of Allison Matlack, built off the [Reverie](https://github.com/amitmerchant1990/reverie) template.
+The personal website of Allison Matlack, built off the [Reverie](https://github.com/amitmerchant1990/reverie) template, with a lot of inspiration from [Ben.Balter.com](https://github.com/benbalter/benbalter.github.com).
 
 ## License
 
