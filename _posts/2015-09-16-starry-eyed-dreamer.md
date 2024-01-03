@@ -19,5 +19,5 @@ Red Hat's meritocracy manifests most strongly in our management style. We encour
 We hear about "startup culture" all the time in the business world. As Red Hat continues to grow as a company, I've been wondering how we're going to maintain that "startup" heart and soul that makes the red fedora meaningful. This book is a big step in the right direction. Sure, Red Hat will evolve and change as we bring on more people, but now we have the best workbook on our culture that we've ever had. I feel tremendously lucky to work for a company that is so protective of our mutual values of trust, transparency, and meritocracy—not just at the time of its founding, but every single day.
 
 <div class="license_footer">
-  <p>This content was originally published <a href="https://opensource.com/open-organization/15/9/reflections-open-organization-starry-eyed-dreamer">on opensource.com</a> under CC BY-SA 4.0.</p>
+  <p>This content (including images) was originally published <a href="https://opensource.com/open-organization/15/9/reflections-open-organization-starry-eyed-dreamer">on opensource.com</a> under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>
 </div>
