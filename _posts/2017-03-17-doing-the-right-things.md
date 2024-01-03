@@ -30,4 +30,6 @@ I would encourage the frustrated team in this scenario to document the business 
 
 Change can be uncomfortable. It can take a long time. But oftentimes, small teams like these can make the biggest impacts, leading by example. As the team learns more about why certain processes are in place and how to work more efficiently with the procedures they have to follow, hopefully, the rest of the organization will begin to see the value of focusing on doing the right thing rather than just doing things right. And as the organization begins to identify which processes are necessary and which can be changed to leave room for more flexibility, both the customer and the organization win.
 
-_This article is part of [The Open Organization Guide to IT culture change](https://github.com/open-organization/open-org-it-culture) and was originally published [on opensource.com](https://opensource.com/open-organization/17/5/doing-the-right-things) under CC BY-SA 4.0_
+<div class="license_footer">
+  <p>This article is part of <a href="https://github.com/open-organization/open-org-it-culture">The Open Organization Guide to IT Culture Change</a> and was originally published (including images) <a href="https://opensource.com/open-organization/17/5/doing-the-right-things">on opensource.com</a> under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>
+</div>
