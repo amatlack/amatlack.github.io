@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building teams we want to be on (regardless of where they're located)
-description: Build a healthy team that thinks and acts openly, regardless of their physical location, by establishing trust through transparency, co-creating a team charter, and finding ways to keep each other in the loop.
+description: If you’re new to open management, new to managing a distributed team, or have some experience but are looking for a refresher, here are some pragmatic steps you can take toward fostering a healthy team that thinks and acts openly, regardless of where they’re physically located.
 image: /images/human_distance_cover.png
 categories: [Open leadership, Culture]
 ---
