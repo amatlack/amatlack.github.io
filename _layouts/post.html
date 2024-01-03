@@ -10,7 +10,6 @@ layout: default
     {% if page.last_modified_at %}
     <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%Y-%m-%d" }})</p>
     {% endif %}
-    <img class="post_image" src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}" />
     <div class="post-tags">
       {% if post %}
         {% assign categories = post.categories %}
@@ -23,7 +22,11 @@ layout: default
       {% endfor %}
     </div>
   </div>
-    
+  
+  <div class="post_image">
+    <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}" />
+  </div>
+  
   <div class="entry">
     {{ content }}
   </div>
