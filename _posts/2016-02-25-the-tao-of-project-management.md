@@ -141,4 +141,7 @@ I believe in what open organizations are doing. What open organizations are doin
 
 I encourage you to find ways to incorporate some of these ideas into your own projects and teams to see what happens. Learn about your organization's mission and how your projects contribute to it. Have courage, expect to try some things that won't work, and don't forget to share the lessons you learn with our community so we can continue to improve.
 
-_This article is part of [The Open Organization Leaders Manual](https://github.com/open-organization/open-org-leaders-manual) and was originally published [on opensource.com](https://opensource.com/open-organization/16/2/tao-project-management) under CC BY-SA 4.0; links to the Tao Te Ching source have been updated as [the source cited in the article](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html) at time of publication now 404s_
+
+<div class="license_footer">
+  <p>This article is part of <a href="https://github.com/open-organization/open-org-leaders-manual">The Open Organization Leaders Manual</a> and was originally published <a href="https://opensource.com/open-organization/16/2/tao-project-management">on opensource.com</a> under CC BY-SA 4.0. Links to the Tao Te Ching source have been updated here as <a href="http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html">the source cited</a> at time of original publication now 404s.</p>
+</div>
