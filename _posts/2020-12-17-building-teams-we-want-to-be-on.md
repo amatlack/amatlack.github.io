@@ -122,4 +122,6 @@ If you have too many direct reports to manage weekly or bi-weekly meetings with 
 
 Just two years into my career managing a distributed team, I can already say that my favorite part of management is helping create a team I want to be on. What I've learned is that once you've established trust, co-created a team charter, and found a way to keep each other in the loop, something magical happens. I hope you will try it and see.
 
-_This article is part of [Human at a Distance: An Open Organization Guide to Distributed Teamwork](https://github.com/open-organization/open-org-distributed-work-guide), published under CC BY-SA 4.0_
+<div class="license_footer">
+  <p>This article is part of <a href="https://github.com/open-organization/open-org-distributed-work-guide">Human at a Distance: An Open Organization Guide to Distributed Teamwork</a>, published under CC BY-SA 4.0.
+</div>
