@@ -28,4 +28,6 @@ With the support of the leadership team and input from fellow associates from de
 
 Now, my challenge is to believe that I'm not an impostor, that I do know exactly what I'm doing. That includes collaborating with others, like that psychology expert whose feedback highlighted things I'd never otherwise consider. Her input made our survey exponentially more useful. And she reminded me that I can control the future. All I have to do is make the best decisions I can in this present moment to set the engagement program up for success.
 
-_Content originally published [on opensource.com](https://opensource.com/business/16/8/impostor-syndrome-and-senior-managers) under CC BY-SA 4.0_
+<div class="license_footer">
+  <p>This content (including images) was originally published <a href="https://opensource.com/business/16/8/impostor-syndrome-and-senior-managers">on opensource.com</a> under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>
+</div>
