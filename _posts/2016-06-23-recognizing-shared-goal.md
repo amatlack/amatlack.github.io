@@ -30,4 +30,7 @@ I wouldn't have lost anything. Instead, I would have built a relationship of tru
 
 Ultimately, the product we delivered to our customers would have been far better. And that's all that really matters.
 
-_Content originally published [on opensource.com](https://opensource.com/open-organization/16/6/recognizing-shared-goal) under CC BY-SA 4.0_
+
+<div class="license_footer">
+  <p>This content was originally published <a href="https://opensource.com/open-organization/16/6/recognizing-shared-goal">on opensource.com</a> under CC BY-SA 4.0.</p>
+</div>
