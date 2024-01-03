@@ -22,7 +22,9 @@ One of the best illustrations of the concept of empowerment comes from General S
 
 ![Figure reproduced from Team of Teams](/images/teamofteams.jpg)
 
-_Figure 1: Reproduced from_ Team of Teams
+<div class="image_caption">
+  <p>Figure 1: Reproduced from Team of Teams</p>
+</div>
 
 The left side of the diagram depicts the current state of things: The problems we face are complex, and market demands in the age of digital transformation can change rapidly. No individual or team team can afford to operate in isolation if we have any hope of keeping pace, because we're all so interdependent.
 
@@ -50,7 +52,9 @@ Figure 2 shows the additive nature of activity states as an organization moves f
 
 ![States from managed to empowered](/images/matlack_empowerment_figure2.jpg)
 
-_Figure 2: Organizational activity states from_ managed _to_ empowered _(courtesy of Allison Matlack CC BY-SA)_
+<div class="image_caption">
+  <p>Figure 2: Organizational activity states from <em>managed</em> to <em>empowered</em> (courtesy of the author, CC BY-SA)</p>
+</div>
 
 All teams are _managed_—whether they've stretched to empowerment or not. What changes as an organization becomes empowered is what that management _looks like_.
 
