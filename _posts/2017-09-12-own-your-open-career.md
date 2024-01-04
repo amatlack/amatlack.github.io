@@ -3,7 +3,7 @@ layout: post
 title: Four tips for leaders helping others evolve their careers
 description: Owning your career doesn't mean you're totally on your own. In open organizations, managers and other leaders have a responsibility to employees seeking new opportunities for development and growth.
 image: /images/leaderscatalysts.jpg
-categories: [Open organization, Open leadership, Culture]
+categories: [Open organization, Open leadership, Culture, Career]
 ---
 
 In open organizations, we like to say that you own your career. Each one of us is encouraged to find a gap and fill it.
