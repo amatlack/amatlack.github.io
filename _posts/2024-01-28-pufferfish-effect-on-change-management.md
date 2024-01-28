@@ -15,7 +15,7 @@ A gigantic Slack redesign with a complete overhaul of the UI. A shiny new corpor
 
 ## Enter the pufferfish
 
-The rise in cortisol and adrenaline rush we feel when caught off-guard by these kinds of disruptive changes is similar to the [fight-or-flight response](https://en.wikipedia.org/wiki/Fight-or-flight_response), but I like to call it the “pufferfish effect”: We get so full of anger, frustration, indignation – irritated our colleagues (seemingly) didn’t bother to consult us, or consider our use cases, or, at minimum, even provide a warning before ripping things out from under us – that we puff up like blowfish, making it impossible to have any kind of rational conversation or to find a way forward until we can calm back down and de-puff.
+The adrenaline rush and rise in cortisol we feel when caught off-guard by these kinds of disruptive changes is similar to the [fight-or-flight response](https://en.wikipedia.org/wiki/Fight-or-flight_response), but I like to call it the “pufferfish effect”: We get so full of anger, frustration, indignation – irritated our colleagues (seemingly) didn’t bother to consult us, or consider our use cases, or, at minimum, even provide a warning before ripping things out from under us – that we puff up like blowfish, making it impossible to have any kind of rational conversation or to find a way forward until we can calm back down and de-puff.
 
 So, as my fellow communications and change management practitioners are well aware, if you want your message to be heard or your change to land successfully, it’s best to find ways to prevent everyone from puffing in the first place.
 
