@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beyond engagement - What leaders need to know about empowering others
+title: "Beyond engagement: What leaders need to know about empowering others"
 description: Empowering employees doesn't mean you won't need to manage them. But it does mean leaders need to think differently about their roles.
 image: /images/opensource-lovework.jpg
 categories: [Open leadership, Culture]
