@@ -25,7 +25,7 @@ In 2018, I took a position leading the internal communications team for my compa
 
 What I quickly realized – and I’ll let you decide if this is a bug or feature, because this is true at so many companies – is that the teams in charge of the systems and tools people use every day are usually siloed off from the people using those systems and tools. For example, an IT department might look at line items on a spreadsheet and decide to decommission a particular system or app based on the low percentage of users relative to cost to maintain, not realizing it is integrated into some essential workflow or process over in Engineering. It’s sometimes hard to know what the impact of a small change will be downstream, or if it will truly require weeks of stakeholder and risk analysis, feedback gathering, etc.
 
-So, to help, my team and I decided we’d start the (unofficial) Pufferfish Prevention Program – not only to establish better lines of cross-organizational communication and ways to surface changes for feedback before implementation, thus reducing the impact of the pufferfish effect, but also to give us a more humorous way to hold ourselves and others accountable for behaving professionally when we feel like we’re about to puff up.[^1] 
+So, to help, my team and I decided we’d start the (unofficial) Pufferfish Prevention Program – not only to establish better lines of cross-organizational communication and ways to surface changes for feedback before implementation, thus reducing the impact of the pufferfish effect, but also to give us a more humorous way to hold ourselves and others accountable for behaving professionally when we feel like we’re about to puff up. To this day, if I vent any overblown frustration or anger to certain friends, they will respond with a GIF of a pufferfish, which, as a reminder that things are not that deep, usually makes me laugh and calm down.
 
 <div class="about_headshot">
   <img src="{{ site:baseurl }}/images/puffer-sticker.png" />
@@ -61,8 +61,3 @@ Here are some practical tips for how you can help prevent the pufferfish effect 
 * **Learn and iterate.** If you are implementing or experiencing a change, don’t expect it to be perfect or final. Be open to feedback, experimentation, and adaptation. Learn from what works and what doesn’t, and be willing to adjust and improve as you go. Celebrate the successes and learn from the failures. Don’t be afraid to change your mind or course-correct if needed.
 
 And remember, when in doubt, just breathe.
-
-[^1]: To this day, if I vent any overblown frustration or anger to certain friends, they will respond with a GIF of a pufferfish, which, as a reminder that things are not that deep, usually makes me laugh and calm down.
-
-
-
