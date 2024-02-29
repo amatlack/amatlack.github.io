@@ -53,11 +53,11 @@ My director attended one of those talks, and it must have resonated, because he 
 
 I didn’t understand it at the time – at the time, I felt like I was being fired – but kicking me out of the nest was the best thing my director ever could have done for me. What he was saying was that he had scaled me as much as he could, given the size and scope of his department, and he knew I was destined for more. 
 
+I went through a few rounds of interviews for different internal positions, and while none of those positions were really the right fit, it was hard not to take it personally when I was passed over. But after a few months of looking, the right position opened, and I stepped up to lead the internal communications team for our Products and Technologies division (which meant the audience I served went from about 150 to about 9,000).
+
 <div class="about_headshot">
   <img src="{{ site:baseurl }}/images/director-chair.jpg" />
 </div>
-
-I went through a few rounds of interviews for different internal positions, and while none of those positions were really the right fit, it was hard not to take it personally when I was passed over. But after a few months of looking, the right position opened, and I stepped up to lead the internal communications team for our Products and Technologies division (which meant the audience I served went from about 150 to about 9,000).
 
 It was bittersweet to leave my team, even though I wasn’t going far, because I had been with them for more than seven years. They organized a small going-away dinner – complete with gluten-free cake! – which I greatly appreciated, as I had always been the one doing the event planning.
 
@@ -65,7 +65,7 @@ And then my director brought out a box. Inside the box was a director’s chair 
 
 “Now you can pull your own chair up to any table,” he said.
 
-## What the chairs taught me about management
+## What I learned from the chairs
 
 Those two chairs – the one Mike wheeled up to the table, and the director’s chair with my name on it – have become powerful symbols for me, representing not just physical seats, but the mindset and approach to bring to management.
 
