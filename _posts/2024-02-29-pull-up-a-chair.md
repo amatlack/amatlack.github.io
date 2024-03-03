@@ -41,13 +41,13 @@ Once we shifted the reporting structure so I reported to our director, that prob
 
 I also gave several conference talks about the importance and impact of a strong partnership between a highly driven associate and an advocate manager, based on everything I’d learned from working with Mike, and I always included that story about him wheeling in a chair for me as the strongest example of advocacy and servant-leadership. 
 
+My director attended one of those talks, and it must have resonated, because he called me to talk about it a few weeks later, saying, “You have a really interesting career story. So, what’s next?”
+
 ![Me giving one of those talks](/images/boss-talk.jpg)
 
 <div class="image_caption">
   <p>Image: Me, giving one of those talks</p>
 </div>
-
-My director attended one of those talks, and it must have resonated, because he called me to talk about it a few weeks later, saying, “You have a really interesting career story. So, what’s next?”
 
 ## My own chair
 
