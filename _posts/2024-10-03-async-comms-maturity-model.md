@@ -35,7 +35,7 @@ Each area is divided into four maturity levels, so teams can assess where they s
 - Enable deeper, more focused work by minimizing reliance on real-time responses, and
 - Build transparency and autonomy into your culture, so your team can collaborate seamlessly across time zones and locations.
 
-The goal isn’t to perfect async communication overnight — it’s to help you make steady progress, one step at a time.
+The goal isn’t to perfect your practices overnight — it’s to help you make steady progress, one step at a time.
 
 ## Ready to rethink how you work?
 
