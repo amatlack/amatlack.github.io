@@ -14,7 +14,7 @@ That’s where asynchronous communications comes in.
 
 Adapted from the principles and practices [originally developed at GitHub](https://github.com/github/how-engineering-communicates), [Rethinking async communications](https://github.com/amatlack/rethinking-async-communications) is designed to help teams across industries adopt more effective async-first communication strategies. While GitHub has long embraced remote work, [these principles](https://github.com/amatlack/rethinking-async-communications) have been generalized to fit a broader variety of teams. The result is a set of core guidelines that encourage transparency, autonomy, and collaboration, no matter your company or industry.
 
-The number one question teams ask when trying to adopt these principles is, “This all sounds great, but what now? How can I improve?” To answer that, the [**asynchronous communications maturity model**](https://github.com/amatlack/rethinking-async-communications/blob/main/maturity-model.md) was created to help teams assess where they stand and provide guidance on how to gradually mature their async practices.
+The most frequent questions teams ask when trying to adopt these principles is, “This all sounds great, but what now? How can I improve?” To answer that, the [**asynchronous communications maturity model**](https://github.com/amatlack/rethinking-async-communications/blob/main/maturity-model.md) was created to help teams assess where they stand and provide guidance on how to gradually mature their async practices.
 
 ## Mature your practices
 
