@@ -16,7 +16,7 @@ Adapted from the principles and practices [originally developed at GitHub](https
 
 The number one question teams ask when trying to adopt these principles is, “This all sounds great, but what now? How can I improve?” To answer that, the [**asynchronous communications maturity model**](https://github.com/amatlack/rethinking-async-communications/blob/main/maturity-model.md) was created to help teams assess where they stand and provide guidance on how to gradually mature their async practices.
 
-## Evolve your team's communication: The async maturity model
+## Mature your practices
 
 The [asynchronous communications maturity model](https://github.com/amatlack/rethinking-async-communications/blob/main/maturity-model.md) and [one-page overview](https://github.com/amatlack/rethinking-async-communications/blob/main/one-page-maturity-overview.pdf) are designed to guide teams from relying on real-time, synchronous communication to fully embracing async workflows. By offering clear guidance and concrete examples, the model can help teams break free from constant interruptions and unnecessary meetings, leading to more focused work and better collaboration across time zones.
 
