@@ -41,8 +41,8 @@ The goal isn’t to perfect your practices overnight — it’s to help you make
 
 Remote work, when done right, isn’t just about logging in from different locations — it’s about unlocking new ways to focus, collaborate, and thrive. The [Rethinking async communications](https://github.com/amatlack/rethinking-async-communications) resources can help you shift from a world of back-to-back meetings and constant interruptions to one where deep work and thoughtful, intentional communication become the norm.
 
-This isn’t about overhauling everything overnight. It’s about taking steady, meaningful steps that empower your team to work more efficiently, more autonomously, and more happily. Whether you're just beginning your async journey or looking to fine-tune your processes, the maturity model can help you make gradual improvements — so you can do your best work on your own terms.
+This isn’t about overhauling everything all at once. It’s about taking steady, meaningful steps that empower your team to work more efficiently, more autonomously, and more happily. Whether you're just beginning your async journey or looking to fine-tune your processes, the maturity model can help you make gradual improvements — so you can do your best work on your own terms.
 
-The road to async maturity is a journey, not a destination. And it's one we’re all on together. [Join the conversation](https://github.com/amatlack/rethinking-async-communications/blob/main/.github/CONTRIBUTING.md) and help refine the model. Your insights could make async work even better for teams everywhere.
+The road to async maturity is a journey, not a destination. And it's one we’re all on together. [Join the conversation](https://github.com/amatlack/rethinking-async-communications/blob/main/.github/CONTRIBUTING.md) and help refine the model. Your insights could make remote work even better for teams everywhere.
 
 Are you ready to rethink how you work? [Dive in](https://github.com/amatlack/rethinking-async-communications), and let’s get started.
