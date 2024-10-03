@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rethinking async communications: A maturity model for remote teams"
-description: "Remote work isn't just about where you work, but how you work. These async communications principles and accompanying maturity model can help your team become more focused, efficient, and fulfilled."
+description: "Remote work isn't just about where you work, but how you work. These async communications principles and accompanying maturity model can help you and your team become more focused, efficient, and fulfilled."
 image: /images/async-comms.png
 categories: [Internal communications, Culture]
 ---
