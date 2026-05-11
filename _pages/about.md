@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div class="about_headshot">
-  <img src="{{ site:baseurl }}/images/Matlack-138.jpg" />
+  <img src="{{ site:baseurl }}/images/Allison-Matlack-finals-3-RETOUCHED-final-version.jpg" />
 </div>
 
 Allison Matlack is a leader focused on engineering culture, organizational health, and the human side of technology. Most recently she served as Head of Engineering Culture & Programs at [Block](https://block.xyz/), where she's focused on ensuring that teams, work, and culture thrive within an ecosystem of thousands of engineers creating tools to expand economic access.
