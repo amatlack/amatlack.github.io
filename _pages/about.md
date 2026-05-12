@@ -8,7 +8,7 @@ permalink: /about/
   <img src="{{ site:baseurl }}/images/Allison-Matlack-finals-3-RETOUCHED-final-version.jpg" />
 </div>
 
-Allison Matlack is a leader focused on engineering culture, organizational health, and the human side of technology. Most recently she served as Head of Engineering Culture & Programs at [Block](https://block.xyz/), where she's focused on ensuring that teams, work, and culture thrive within an ecosystem of thousands of engineers creating tools to expand economic access.
+Allison Matlack is a leader focused on engineering culture, organizational health, and the human side of technology. Most recently, she served as Head of Engineering Culture & Programs at [Block](https://block.xyz/), where she was focused on ensuring that teams, work, and culture thrived within an ecosystem of thousands of engineers creating tools to expand economic access.
 
 Before joining Block, Allison was a Technical Business Operations Manager at [GitHub](https://github.com/about), the world's largest software development platform. There, she focused on internal communications, culture, and change management for the engineering organization, playing a key role in shaping [organizational communications strategies](https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools/) and enhancing organizational health.
 
