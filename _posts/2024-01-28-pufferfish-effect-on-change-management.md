@@ -2,7 +2,7 @@
 layout: post
 title: "Preventing the pufferfish effect: Tips for managing change"
 description: Sudden and unexpected change can be disruptive and cause anxiety, fear, and frustration in the workplace. This response can slow down decision-making and create unnecessary tension and resistance. By communicating early and often, involving stakeholders in the decision-making process, listening to feedback, and being open to iteration, organizations can mitigate the pufferfish effect and more successfully manage change.
-image: /images/pufferfish.png
+image: /images/stelio-puccinelli-HwehA9tWEzw-unsplash.jpg
 categories: [Internal communications, Change management]
 ---
 
