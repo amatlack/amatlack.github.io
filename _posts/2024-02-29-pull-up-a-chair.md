@@ -2,7 +2,7 @@
 layout: post
 title: "The power of advocacy: What two chairs taught me about leadership"
 description: "This is a story about how two simple chairs – one wheeled up by a supportive manager, and another with a director's name plate – shaped my approach to management. In the end, leadership isn't about titles; it's about creating spaces for others to thrive and empowering them to soar."
-image: /images/chair-header.png
+image: /images/neon-wang-OWPB5I0xgFg-unsplash.jpg
 categories: [Open leadership, Career]
 ---
 
