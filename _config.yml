@@ -97,3 +97,9 @@ exclude:
   - README.md
   - CNAME
 
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      image: /images/Allison-Matlack-finals-3-RETOUCHED-final-version.jpg
