@@ -2,7 +2,7 @@
 layout: post
 title: "Thriving in uncertain times: Revisiting employee engagement"
 description: "Employee engagement isn’t a mere business buzzword catchphrase that was popular 10 years ago, but the lifeblood of organizational success. Engaged and inspired employees drive exceptional products, delighted customers, and, ultimately, shareholder value. This post explores some key ways to create workplaces where everyone thrives."
-image: /images/engagement.png
+image: /images/steve-a-johnson-f_nFeb9eWVA-unsplash.jpg
 categories: [Open leadership, Culture]
 ---
 
